@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SEOYOUNG&fontSize=90)
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/sy071500/TODO-List)
-[![JAVA](https://img.shields.io/badge/JAVA-F7DF1E?style=flat-square&logo=JAVA&logoColor=black)](github.com/sy071500/TODO-List)
+[![JAVA](https://img.shields.io/badge/JAVA-F7871E?style=flat-square&logo=JAVA&logoColor=black)](github.com/sy071500/TODO-List)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsy071500&count_bg=%233E3F3C&title_bg=%230676E5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 

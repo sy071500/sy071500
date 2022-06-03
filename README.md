@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ![sy071500's github stats](https://github-readme-stats.vercel.app/api?username=sy071500&show_icons=true)
 [![sy071500's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sy071500&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sy071500)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=sy071500&theme=cold&&width=500)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=sy071500&theme=cold)

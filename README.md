@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SEOYOUNG&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SEOYOUNG&fontSize=90)
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/sy071500/TODO-List)
 [![JAVA](https://img.shields.io/badge/JAVA-F7871E?style=flat-square&logo=JAVA&logoColor=black)](github.com/sy071500/TODO-List)

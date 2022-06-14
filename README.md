@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 
 ![sy071500's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy071500&&show_icons=true)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=sy071500&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>

@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsy071500&count_bg=%233E3F3C&title_bg=%230676E5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![sy071500's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy071500&&show_icons=true)
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=SEOYOUNG&theme=cold)
+<!-- 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=SEOYOUNG&theme=cold) -->
 

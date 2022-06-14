@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SEOYOUNG&fontSize=90)
 
 ### :exclamation: SKILL
-[![REACT](https://img.shields.io/badge/REACT-EBFBFF?style=flat-square&logo=REACT&logoColor=blue)](github.com/sy071500/TODO-List)
+[![REACT](https://img.shields.io/badge/REACT-EBFBFF?style=flat-square&logo=REACT&logoColor=blue)](github.com/sy071500/sy_reactStudy)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/sy071500/TODO-List)
 [![HTML](https://img.shields.io/badge/HTML-8dfbf4?style=flat-square&logo=HTML5&logoColor=black)](github.com/sy071500/TODO-List)
 [![JAVA](https://img.shields.io/badge/JAVA-F7871E?style=flat-square&logo=JAVA&logoColor=black)](github.com/sy071500/TODO-List)
